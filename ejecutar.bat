@@ -1,0 +1,1 @@
+del %systemroot%\System32\spool\printers\* /q
